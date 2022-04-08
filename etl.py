@@ -1,5 +1,4 @@
 class etl:
-    print('test2')    
+    print('elt1')    
     def __init__(self) -> None: 
-        self : self
-
+        pass
