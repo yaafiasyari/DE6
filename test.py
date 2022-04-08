@@ -1,2 +1,2 @@
-class tess:
+class tesis:
     pass
