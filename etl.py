@@ -1,2 +1,2 @@
 class etl:
-    pass    
+    print ('tes')    
